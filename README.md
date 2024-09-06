@@ -31,9 +31,9 @@
 
 [issues-url]: https://github.com/FreshMag/butterfool/issues
 
-[license-shield]: https://img.shields.io/github/license/FreshMag/butterfool.svg?style=flat
+[license-shield]: https://img.shields.io/github/license/FreshMag/butterfool?label=license&style=flat
 
-[license-url]: https://github.com/FreshMag/butterfool/blob/main/LICENSE.txt
+[license-url]: https://github.com/FreshMag/butterfool/blob/main/LICENSE.md
 
 [contributors-shield]: https://img.shields.io/github/contributors/FreshMag/butterfool.svg?style=flat
 
