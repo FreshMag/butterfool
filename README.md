@@ -33,7 +33,7 @@
 
 [license-shield]: https://img.shields.io/github/license/FreshMag/butterfool.svg?style=flat
 
-[license-url]: https://github.com/FreshMag/butterfool/blob/master/LICENSE.txt
+[license-url]: https://github.com/FreshMag/butterfool/blob/master/LICENSE
 
 [contributors-shield]: https://img.shields.io/github/contributors/FreshMag/butterfool.svg?style=flat
 
