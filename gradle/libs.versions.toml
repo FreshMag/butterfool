@@ -1,0 +1,13 @@
+[versions]
+kotlin = "2.0.0"
+kotest = "5.9.1"
+
+[libraries]
+antlr = { module = "org.antlr:antlr4", version = "4.13.1" }
+asm = { module = "org.ow2.asm:asm", version = "9.7" }
+kotest = { module = "io.kotest:kotest-runner-junit5-jvm", version.ref = "kotest" }
+
+
+[plugins]
+ktlint = { id = "org.jlleitschuh.gradle.ktlint", version = "12.1.1" }
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
