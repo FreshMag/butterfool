@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm")
+    alias(libs.plugins.kotlin.jvm)
     antlr
     alias(libs.plugins.ktlint)
 }

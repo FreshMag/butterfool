@@ -3,3 +3,5 @@ plugins {
 }
 rootProject.name = "butterfool"
 include("compiler")
+include("compiler-embeddable")
+include("compiler-test")
